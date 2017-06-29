@@ -1,24 +1,17 @@
-# README
+# Property Manager ERD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Your client wants an app where landlords can manage their properties. Team up with a fellow Wyncoder to build it.
 
-Things you may want to cover:
+## User Stories
 
-* Ruby version
+- **As a** landlord,
+- **I want to** see all of my properties, and
+- **I want to** see see any repairs that need to be done on each of those properties
+- **So that** I can stay on top of the maintenance of all of my properties.
 
-* System dependencies
+## Instructions
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Together with a teamate, use a sheet of paper, a white board, or an app such as [draw.io](https://www.draw.io/) to:
+- determine what models are going to be necessary
+- design and draw an ERD for these models
+- and take turns explaining the ERD to each other, justifying why you arrived at that data model.
